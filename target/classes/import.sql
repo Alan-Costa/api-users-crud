@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Monkey D. Luffy', '444.555.547-33', TIMESTAMP WITH TIME ZONE '1999-07-14', 2000.0, 2);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Naruto Uzumaki', '987.555.547-33', TIMESTAMP WITH TIME ZONE '1990-07-14', 2000.0, 1);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Kakashi Hatake', '777.555.547-34', TIMESTAMP WITH TIME ZONE '1991-07-14', 2000.0, 4);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Sasuke Uchiha', '888.555.547-33', TIMESTAMP WITH TIME ZONE '1992-07-14', 2000.0, 7);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Roronoa Zoro', '999.555.547-73', TIMESTAMP WITH TIME ZONE '1995-07-14', 2000.0, 0);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Tanjiro Kamado', '001.555.547-33', TIMESTAMP WITH TIME ZONE '1993-07-14', 2000.0, 1);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Shoto Todoroki', '852.555.547-38', TIMESTAMP WITH TIME ZONE '1984-07-14', 2000.0, 2);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Levi Ackerman', '201.585.547-03', TIMESTAMP WITH TIME ZONE '1994-07-14', 2000.0, 2);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Saitama', '061.515.547-33', TIMESTAMP WITH TIME ZONE '1994-07-14', 2000.0, 9);
+INSERT INTO tb_client (name, cpf, birth_date, income, children) VALUES ('Sanji Vinsmoke', '581.553.557-00', TIMESTAMP WITH TIME ZONE '1994-05-14', 2000.0, 8);
